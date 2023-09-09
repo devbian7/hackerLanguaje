@@ -37,5 +37,6 @@ class MainActivity : AppCompatActivity() {
         }
         return result.toString()
     }
+    //added this comment to test branches
     //added 2nd comment
 }
