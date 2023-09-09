@@ -37,4 +37,5 @@ class MainActivity : AppCompatActivity() {
         }
         return result.toString()
     }
+    //added 2nd comment
 }
